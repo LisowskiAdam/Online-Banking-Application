@@ -1,0 +1,7 @@
+export const transferFundsPageTitleCopy = 'Transfer Money & Make Payments'
+export const transferFundsDescriptionCopy = 'Please verify that the following transaction is correct by selecting the Submit button below.'
+export const transferFundsVerifyPageTitleCopy = 'Transfer Money & Make Payments - Verify'
+export const transferFundsConfirmPageTitleCopy = 'Transfer Money & Make Payments - Confirm'
+export const successMessageCopy = 'You successfully submitted your transaction.'
+export const makeAnotherTransferButtonLinkCopy = 'View transfers or make another transfer'
+export const descriptionAdditionalInfoCopy = 'Descriptions appear for checking, savings, money market or market rate accounts only.'

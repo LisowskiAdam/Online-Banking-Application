@@ -1,0 +1,8 @@
+export const loginPageTitleCopy = 'Log in to ZeroBank'
+export const unsuccessfullloginPageTitleCopy = 'Troubles entering the site?'
+export const errorMessageCopy = 'Login and/or password are wrong.'
+export const loginLabelCopy = 'Login'
+export const passwordLabelCopy = 'Password'
+export const rememberMeLabelCopy = 'Keep me signed in'
+export const resetPasswordLinkCopy = 'Forgot your password ?'
+export const signInButtonCopy = 'Sign in'

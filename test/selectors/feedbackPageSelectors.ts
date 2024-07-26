@@ -1,0 +1,22 @@
+// feedback form
+export const name = '#name'
+export const email = '#email'
+export const subject = '#subject'
+export const comment = '#comment'
+export const submitButton = 'input[value="Send Message"]'
+export const clearButton = 'input[type="reset"]'
+export const faqLink = '#faq-link'
+export const feedbacPagekTitle = '#feedback-title'
+export const description = '#description'
+
+// faq page
+export const question1 = '#question1'
+export const question1Title = '#question1 > div.span7 > h4'
+export const question1point1 = 'body > div.wrapper > div.container > div > div > div > div:nth-child(4) > div > ol > li:nth-child(1)'
+export const question1point2 = 'body > div.wrapper > div.container > div > div > div > div:nth-child(4) > div > ol > li:nth-child(2)'
+export const question1point3 = 'body > div.wrapper > div.container > div > div > div > div:nth-child(4) > div > ol > li:nth-child(3)'
+export const question2 = '#question2'
+export const question2Title = '#question2 > div.span7 > h4'
+export const question2point1 = 'body > div.wrapper > div.container > div > div > div > div:nth-child(6) > div > ol > li:nth-child(1)'
+export const question2point2 = 'body > div.wrapper > div.container > div > div > div > div:nth-child(6) > div > ol > li:nth-child(2)'
+export const question2point3 = 'body > div.wrapper > div.container > div > div > div > div:nth-child(6) > div > ol > li:nth-child(3)'

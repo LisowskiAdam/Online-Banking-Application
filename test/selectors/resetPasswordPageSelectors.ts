@@ -1,0 +1,5 @@
+export const userEmail = '#user_email'
+export const rpPageTitle = 'body > div.wrapper > div.container > div > div > div > div > h3'
+export const rpPageDescription = 'body > div.wrapper > div.container > div > div > div > p'
+export const emailLabel = 'label[for="user_email"]'
+export const sendPasswordButton = 'input[type="submit"]'

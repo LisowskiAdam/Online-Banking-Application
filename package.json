@@ -1,0 +1,18 @@
+{
+  "name": "zerowebapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tests:api": "playwright test --config=e2e.config.ts --project=Chromium"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@playwright/test": "^1.45.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.10"
+  }
+}
